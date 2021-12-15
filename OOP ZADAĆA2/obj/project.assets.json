@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\ALGORITMI KZ1\\OOP ZADAĆA2\\OOP ZADAĆA2\\OOP ZADAĆA2.csproj",
+      "projectUniqueName": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\OOP ZADAĆA2\\OOP ZADAĆA2\\OOP ZADAĆA2.csproj",
       "projectName": "OOP ZADAĆA2",
-      "projectPath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\ALGORITMI KZ1\\OOP ZADAĆA2\\OOP ZADAĆA2\\OOP ZADAĆA2.csproj",
+      "projectPath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\OOP ZADAĆA2\\OOP ZADAĆA2\\OOP ZADAĆA2.csproj",
       "packagesPath": "C:\\Users\\agrgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\ALGORITMI KZ1\\OOP ZADAĆA2\\OOP ZADAĆA2\\obj\\",
+      "outputPath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\OOP ZADAĆA2\\OOP ZADAĆA2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agrgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\agrgi\\OneDrive\\Radna površina\\ALGORITMI KZ1\\OOP ZADAĆA2\\Wether\\WeatherLibrary.csproj": {
-              "projectPath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\ALGORITMI KZ1\\OOP ZADAĆA2\\Wether\\WeatherLibrary.csproj"
+            "C:\\Users\\agrgi\\OneDrive\\Radna površina\\OOP ZADAĆA2\\Wether\\WeatherLibrary.csproj": {
+              "projectPath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\OOP ZADAĆA2\\Wether\\WeatherLibrary.csproj"
             }
           }
         }

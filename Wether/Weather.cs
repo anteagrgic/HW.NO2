@@ -22,7 +22,7 @@ namespace WeatherLibrary
 
         public string GetAsString()
         {
-            return $"{temperature}°C {windSpeed}km/h {humidity}%";
+            return $"T={temperature}°C W={windSpeed}km/h H={humidity}%";
         }
         public double GetTemperature()
         {

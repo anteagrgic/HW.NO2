@@ -7,3 +7,12 @@ C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\Wether\obj\De
 C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.csproj.CoreCompileInputs.cache
 C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.dll
 C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.pdb
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.csprojAssemblyReference.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.AssemblyInfoInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.AssemblyInfo.cs
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.dll
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\obj\Debug\netstandard2.0\WeatherLibrary.pdb
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\bin\Debug\netstandard2.0\WeatherLibrary.deps.json
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\bin\Debug\netstandard2.0\WeatherLibrary.dll
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\Wether\bin\Debug\netstandard2.0\WeatherLibrary.pdb

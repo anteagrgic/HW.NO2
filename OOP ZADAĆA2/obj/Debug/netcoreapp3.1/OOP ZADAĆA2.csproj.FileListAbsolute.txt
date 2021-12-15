@@ -14,3 +14,19 @@ C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\OOP ZADAĆA2\
 C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.dll
 C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.pdb
 C:\Users\agrgi\OneDrive\Radna površina\ALGORITMI KZ1\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.genruntimeconfig.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.csprojAssemblyReference.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.AssemblyInfoInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.AssemblyInfo.cs
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.csproj.CoreCompileInputs.cache
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.dll
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.pdb
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\OOP ZADAĆA2.exe
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\OOP ZADAĆA2.deps.json
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\OOP ZADAĆA2.runtimeconfig.json
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\OOP ZADAĆA2.runtimeconfig.dev.json
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\OOP ZADAĆA2.dll
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\OOP ZADAĆA2.pdb
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\WeatherLibrary.dll
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\bin\Debug\netcoreapp3.1\WeatherLibrary.pdb
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.csproj.CopyComplete
+C:\Users\agrgi\OneDrive\Radna površina\OOP ZADAĆA2\OOP ZADAĆA2\obj\Debug\netcoreapp3.1\OOP ZADAĆA2.genruntimeconfig.cache

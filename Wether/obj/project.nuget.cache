@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jo2aXwIX+aAzBeRCEcH6RLS/TWmXDFvqi7HU9jVuaX/bRkJ716nkrvNYkuJGcBZIC5jHKsJD2ZEfgyzw5r+sGw==",
+  "dgSpecHash": "KhowQKP4VdNhEvgRH+nC5+yOdUHZXAiQ4UEJzOzbahx+yIV6646jn2nvLWh5Oj4w+WIrvnFg3cRzFRySkj6PzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\ALGORITMI KZ1\\OOP ZADAĆA2\\Wether\\WeatherLibrary.csproj",
+  "projectFilePath": "C:\\Users\\agrgi\\OneDrive\\Radna površina\\OOP ZADAĆA2\\Wether\\WeatherLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agrgi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\agrgi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

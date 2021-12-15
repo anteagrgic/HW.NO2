@@ -22,7 +22,16 @@ namespace WeatherLibrary
             return forecast;
         }
 
+        public static void PrintWeathers(IPrinter[] printers, Weather[] weathers)
+        {
+            foreach(IPrinter printer in printers){
+                foreach(Weather weather in weathers)
+                {
+                    printer.Print(weather.GetAsString());
+                }
+            }
 
+        }
 
     }
 }
